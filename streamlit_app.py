@@ -6,17 +6,14 @@ st.write(
 )
 st.image("IMG_3576.jpeg")
 st.write("\n")
-st.subheader("aira paskib keren mantap")
+st.subheader("niki zefanya")
 st.write(
-    "lagi sering dispen gara gara paskib"
+    "beabadoobee"
 )
 st.write(
     """
-    - sayang ale
-    - sayang keifa
-    - sayang rin
-    - sayang tari
-    - sayang maudi
+    - adrianne lenker
+    - taylor swift
     """
 )
 st.header("ngecheck nilai ganjil genap")
